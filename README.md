@@ -1,19 +1,20 @@
-# Puppy Adoption App
+# Puppy Adoption App (Jetpack Compose)
 
 ![Workflow result](https://github.com/Nilhcem/android-dev-challenge-compose-week1/workflows/Check/badge.svg)
 
+
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+Find your new best friend using our Puppy Adoption Add, entirely written using Jetpack Compose!
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+I've never used Compose so far, so this challenge here was the perfect occasion for me to finally
+take time to get started using Compose!
 
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+
 
 ## License
 ```
