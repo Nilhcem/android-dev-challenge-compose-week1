@@ -4,7 +4,7 @@
 
 
 ## :scroll: Description
-Find your new best friend using our Puppy Adoption Add, entirely written using Jetpack Compose!
+Find your new best friend using our Puppy Adoption App, entirely written using Jetpack Compose!
 
 
 ## :bulb: Motivation and Context
